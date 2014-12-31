@@ -16,7 +16,15 @@
     "in",
     "google"
   ],
-  "author": "Michal Proszek, Mateusz Mackowski",
+  "author": "Michal Proszek <michal.proszek@gmail.com>",
+  "contributors": [{
+    "name": "Michal Proszek",
+    "email": "michal.proszek@gmail.com"
+  },
+  {
+    "name": "Mateusz Mackowski",
+    "email": "m4tx@m4tx.pl"
+  }],
   "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/poxip/yagcil/issues"
