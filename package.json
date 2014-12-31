@@ -1,0 +1,28 @@
+{
+  "name": "yagcil",
+  "version": "0.0.0",
+  "description": "Yet Another Google Code In Leaderboard",
+  "main": "yagcil/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/poxip/yagcil.git"
+  },
+  "keywords": [
+    "google",
+    "code",
+    "in",
+    "google"
+  ],
+  "author": "Michal Proszek, Mateusz Mackowski",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/poxip/yagcil/issues"
+  },
+  "homepage": "https://github.com/poxip/yagcil",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
