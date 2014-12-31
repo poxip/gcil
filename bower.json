@@ -1,0 +1,26 @@
+{
+  "name": "yagcil",
+  "version": "0.0.0",
+  "homepage": "https://yagcil.ml",
+  "authors": [
+    "Michal Proszek <michal.proszek@gmail.com>",
+    "Mateusz Mackowski <m4tx@m4tx.pl>"
+  ],
+  "description": "Yet Another Google Code In Leaderboard",
+  "main": "yagcil/start.js",
+  "keywords": [
+    "google",
+    "code",
+    "in",
+    "google"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "yagcil/bower_components",
+    "test",
+    "tests"
+  ]
+}
