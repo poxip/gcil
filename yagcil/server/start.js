@@ -5,4 +5,4 @@
 
 var server = require('./server');
 
-server.start(debug=true)
+server.start(true, 3000);
