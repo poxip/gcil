@@ -1,9 +1,8 @@
-gcil
-====
+![travis](https://travis-ci.org/poxip/gcil.svg?branch=master)
+# yagcil
 Yet Another Google Code-in Leadeboard.
 
-License
-=======
+## License
 Copyright (C) 2015  Mateusz Maćkowski and Michał Proszek
 
 This program is free software: you can redistribute it and/or modify
