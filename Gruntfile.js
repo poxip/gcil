@@ -16,18 +16,18 @@ module.exports = function(grunt) {
                     livereload: 1337
                 }
             }
-        }
+        },
 
-        /*uglify: {
-
+        uglify: {
          css: {
-         files: {
+             files: {
+
+             }
+         }
 
          }
-         }
-
-         }*/
     })
 
     grunt.registerTask('default', ['watch']);
+    grunt.registerTask('build', ['uglify']);
 };
