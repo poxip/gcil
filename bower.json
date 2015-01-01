@@ -7,7 +7,7 @@
     "Mateusz Mackowski <m4tx@m4tx.pl>"
   ],
   "description": "Yet Another Google Code In Leaderboard",
-  "main": "yagcil/start.js",
+  "main": "yagcil/server/start.js",
   "keywords": [
     "google",
     "code",

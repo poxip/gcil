@@ -2,7 +2,7 @@
   "name": "yagcil",
   "version": "0.0.0",
   "description": "Yet Another Google Code In Leaderboard",
-  "main": "yagcil/start.js",
+  "main": "yagcil/server/start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,14 +17,16 @@
     "google"
   ],
   "author": "Michal Proszek <michal.proszek@gmail.com>",
-  "contributors": [{
-    "name": "Michal Proszek",
-    "email": "michal.proszek@gmail.com"
-  },
-  {
-    "name": "Mateusz Mackowski",
-    "email": "m4tx@m4tx.pl"
-  }],
+  "contributors": [
+    {
+      "name": "Michal Proszek",
+      "email": "michal.proszek@gmail.com"
+    },
+    {
+      "name": "Mateusz Mackowski",
+      "email": "m4tx@m4tx.pl"
+    }
+  ],
   "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/poxip/yagcil/issues"
@@ -33,5 +35,9 @@
   "devDependencies": {
     "grunt": "^0.4.5",
     "bower": "^1.3.12"
+  },
+  "dependencies": {
+    "express": "^4.10.6",
+    "colors": "^1.0.3"
   }
 }
