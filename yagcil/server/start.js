@@ -4,5 +4,6 @@
  */
 
 var server = require('./server');
+ut = require('./ut');
 
-server.start(true, 3000);
+server.start(true, ut.timeToMilliseconds({minutes: 2}), 3000);
