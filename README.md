@@ -1,4 +1,4 @@
-![travis](https://travis-ci.org/poxip/gcil.svg?branch=master)
+![travis](https://travis-ci.org/poxip/ygcil.svg?branch=master)
 # yagcil
 Yet Another Google Code-in Leadeboard.
 
