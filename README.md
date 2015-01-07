@@ -2,6 +2,8 @@
 # yagcil
 Yet Another Google Code-in Leadeboard.
 
+If you're looking for old yagcil, check out [yagcil-old](https://github.com/poxip/yagcil-old).
+
 ## License
 Copyright (C) 2015  Mateusz Maćkowski and Michał Proszek
 
